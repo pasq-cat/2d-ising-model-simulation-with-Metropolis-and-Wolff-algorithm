@@ -1,4 +1,4 @@
-# 2d-ising-model-simulation-with-Metropolis-and-Wolff-algorithm
+# $Simulation of a 2-D Ising model with Metropolis and Wolff algorithms
 monte carlo simulation of an ising model with different algorithms.
 
 hi , this is my first time using github and since i have not seen any other repository showing how to implement the wolff algorithm on 
